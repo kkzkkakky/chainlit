@@ -1,7 +1,10 @@
 # <機能追加検証>
 ## このレポジトリの選定理由
-- Pythonメインで記述されている
-  - TypeScriptやRustも習得できればベストだが、Python（FastAPIなど）でバックエンドをかける方がAI・MLエンジニア的には難易度も低く応用も効くと考えたため
+- TypeScriptとPythonの比率が良さげ
+  - TypeScriptオンリーで書かれているレポジトリも多いが、Pythonがあった方が良いと思った
+    - TypeScriptやRustも習得できればベストだが、Python（FastAPIなど）でバックエンドをかける方がAI・MLエンジニア的には難易度も低く応用も効くと考えたため
+- ライセンスがフリー
+  - Apache
 - StarやFork数が多い
 fork元：https://github.com/Chainlit/chainlit
 
